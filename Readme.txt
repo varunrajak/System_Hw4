@@ -8,7 +8,7 @@ we run the given Makefile by simply typing the command make in the terminal
 - "make"
  
 Now you can run the by 
-./main p ... here p is the number of jobs
+./scheduler p ... here p is the number of jobs
 
 
 supports following commands
@@ -19,9 +19,7 @@ supports following commands
   - submit sleep 10
   
 "showjobs"
-
 show the jobs that are waiting or running
 
 "submithistory"
-
 display all the jobs that have been submitted and its different attributes
